@@ -2,7 +2,6 @@
     font-family: Arial, Helvetica, sans-serif;
     width: 350px;
     height: 350px;
-    background-color: #b28d8d;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
@@ -18,7 +17,7 @@
     padding: 10px;
     background-color: #f8f8f8;
     position: relative;
-    border-top: 2px dashed #ccc;
+    border-top: 4px dashed #ccc;
     text-align: left;
     display: flex;
     flex-direction: column;
@@ -29,14 +28,14 @@
     font-size: 1.5rem;
     font-weight: 700;
     color: #111;
-    margin: 0 0 12px 0;
+    margin: 0 0 5px 0;
 }
 
 .premise {
     font-size: 0.8rem;
     line-height: 1.5;
     color: #555;
-    margin: 0 0 24px 0;
+    margin: 0 0 10px 0;
 }
 
 .release-date {
@@ -51,14 +50,6 @@
     margin-top: auto;
 }
 
-.admit-one {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 0.9rem;
-    font-weight: 700;
-    color: #888;
-    letter-spacing: 1px;
-}
-
 .trailer-btn {
     text-decoration: none;
     background-color: #e50914;
@@ -71,5 +62,26 @@
 }
 
 .trailer-btn:hover {
-    background-color: #f40612;
+    background-color: #9a292f;
+}
+
+@media (max-width: 768px) {
+    .card {
+        flex-direction: column;
+        width: 80vw;
+        max-width: 300px;
+        height: auto;
+    }
+    
+    .poster {
+        width: 100%;
+        height: auto;
+    }
+
+    .title {
+        font-size: 1.25rem;
+    }
+    .premise {
+        font-size: 0.75rem;
+    }
 }

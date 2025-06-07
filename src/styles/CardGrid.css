@@ -1,9 +1,16 @@
 .cardGrid {
     display: flex;
     flex-wrap: wrap;
-    background-color: #111010;
     justify-content: center;
     gap: 2rem;
-    padding: 2rem;
+    padding: 1rem;
     box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    .cardGrid {
+        flex-direction: column;
+        gap: 1.5rem;
+        align-items: center;
+    }
 }
