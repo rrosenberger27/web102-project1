@@ -1,0 +1,75 @@
+.card {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 350px;
+    height: 350px;
+    background-color: #b28d8d;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    display: flex;
+}
+
+.poster {
+    width: 181.5px;
+    height: 350px;
+}
+
+.ticket{
+    padding: 10px;
+    background-color: #f8f8f8;
+    position: relative;
+    border-top: 2px dashed #ccc;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #111;
+    margin: 0 0 12px 0;
+}
+
+.premise {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: #555;
+    margin: 0 0 24px 0;
+}
+
+.release-date {
+    margin-top: 0px;
+    font-weight: bold;
+}
+
+.ticket-bottom { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+}
+
+.admit-one {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #888;
+    letter-spacing: 1px;
+}
+
+.trailer-btn {
+    text-decoration: none;
+    background-color: #e50914;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: background-color 0.2s ease;
+}
+
+.trailer-btn:hover {
+    background-color: #f40612;
+}

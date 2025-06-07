@@ -1,0 +1,9 @@
+.cardGrid {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #111010;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+    box-sizing: border-box;
+}
