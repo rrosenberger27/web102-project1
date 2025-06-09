@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2h3YThsczRuM2wwa21oMDA2OHpubGkzZXN5YndqYWt5bGNxc3E0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RzjSOYKiiWsf3X9w5W/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='web102project1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
