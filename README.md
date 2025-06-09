@@ -27,13 +27,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://giphy.com/gifs/RzjSOYKiiWsf3X9w5W' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqYXVmeGF6emQxMGx3bnZpYW9wbnlmeTJzbWFsaG94cXg5em9hcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukKSiOLuYT92sjYAf8/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
